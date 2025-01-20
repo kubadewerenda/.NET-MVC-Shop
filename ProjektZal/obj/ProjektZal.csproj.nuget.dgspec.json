@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\ProjektZal.csproj": {}
+    "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\ProjektZal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\ProjektZal.csproj": {
+    "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\ProjektZal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\ProjektZal.csproj",
+        "projectUniqueName": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\ProjektZal.csproj",
         "projectName": "ProjektZal",
-        "projectPath": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\ProjektZal.csproj",
-        "packagesPath": "C:\\Users\\Pan Marek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\obj\\",
+        "projectPath": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\ProjektZal.csproj",
+        "packagesPath": "C:\\Users\\kubad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pan Marek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kubad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

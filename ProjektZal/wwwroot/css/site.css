@@ -6,48 +6,117 @@ body {
     background-color: #f8f9fa;
 }
 
-/* Stylizacja strony g³ównej */
+/* Navbar */
+.nav-item {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.2rem;
+    border-radius: 5px;
+}
+
+    .nav-item:hover {
+        background-color: #f2f2f2;
+    }
+
+.nav-left {
+    position: absolute;
+    left: 150px;
+    gap: 20px;
+}
+
+.nav-logo {
+    font-size: 1.5rem;
+    color: #302b63;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 .homepage-container {
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    height: 80vh;
+    background: linear-gradient(135deg, #4a00e0, #8e2de2);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+    position: relative;
+}
+
+/* Left section: Image and text overlay */
+.homepage-left {
+    flex: 8;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    overflow: hidden;
+}
+
+.homepage-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.homepage-text-overlay {
+    position: absolute;
+    z-index: 2;
+    text-align: center;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 80%;
+}
+
+    .homepage-text-overlay h1 {
+        font-size: 2.5rem;
+        margin: 0;
+        color: #ffd700;
+    }
+
+/* Right section: Text and login */
+.homepage-right {
+    flex: 2;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    text-align: center;
-    background-color: #ffffff;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    margin: 0 auto;
-    max-width: 800px;
     padding: 20px;
+    background: linear-gradient(135deg, #4a00e0, #8e2de2);
+    color: #fff;
+    text-align: center;
 }
 
-    .homepage-container h1 {
-        font-size: 4rem;
-        color: #343a40;
-        margin-bottom: 20px;
-    }
-
-    .homepage-container p {
-        font-size: 1.5rem;
-        color: #6c757d;
-        margin-bottom: 30px;
-    }
-
-    .homepage-container a {
-        display: inline-block;
-        padding: 15px 30px;
+    .homepage-right p {
         font-size: 1.2rem;
-        color: #ffffff;
-        background-color: #007bff;
-        text-decoration: none;
-        border-radius: 5px;
-        transition: background-color 0.3s ease;
+        margin-bottom: 30px;
+        color: #fff;
     }
 
-        .homepage-container a:hover {
-            background-color: #0056b3;
-        }
+.btn-login {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    color: #fff;
+    background: linear-gradient(135deg, #ff512f, #dd2476);
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease, transform 0.2s;
+    font-weight: bold;
+}
+
+    .btn-login:hover {
+        background: linear-gradient(135deg, #dd2476, #ff512f);
+        transform: scale(1.05);
+    }
 
 /* Responsywnoœæ */
 @media (max-width: 768px) {
@@ -71,7 +140,7 @@ body {
     max-width: 400px;
     margin: 50px auto;
     padding: 20px;
-    background-color: #ffffff;
+    background: linear-gradient(135deg, #4a00e0, #8e2de2);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     font-family: Arial, sans-serif;
@@ -79,7 +148,7 @@ body {
 
 .login-title {
     font-size: 2rem;
-    color: #343a40;
+    color: #ffd700;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -123,9 +192,9 @@ body {
     transition: background-color 0.3s ease;
 }
 
-.btn:hover {
-    background-color: #0056b3;
-}
+    .btn:hover {
+        background-color: #0056b3;
+    }
 
 .register-link {
     margin-top: 15px;
@@ -134,14 +203,14 @@ body {
     color: #555;
 }
 
-.register-link a {
-    color: #007bff;
-    text-decoration: none;
-}
+    .register-link a {
+        color: #007bff;
+        text-decoration: none;
+    }
 
-.register-link a:hover {
-    text-decoration: underline;
-}
+        .register-link a:hover {
+            text-decoration: underline;
+        }
 
 .dashboard-container {
     display: flex;
@@ -150,56 +219,7 @@ body {
     padding: 20px;
 }
 
-.categories {
-    width: 30%;
-    background-color: #f8f9fa;
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-}
 
-    .categories h3 {
-        margin-bottom: 10px;
-    }
-
-    .categories ul {
-        list-style: none;
-        padding: 0;
-    }
-
-        .categories ul li {
-            margin-bottom: 10px;
-        }
-
-            .categories ul li a {
-                text-decoration: none;
-                color: #007bff;
-            }
-
-                .categories ul li a:hover {
-                    text-decoration: underline;
-                }
-
-.products {
-    width: 70%;
-    background-color: #ffffff;
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-}
-
-    .products h3 {
-        margin-bottom: 10px;
-    }
-
-    .products ul {
-        list-style: none;
-        padding: 0;
-    }
-
-        .products ul li {
-            margin-bottom: 20px;
-        }
 
 /* Ogólne */
 .admin-db-container {
@@ -209,9 +229,79 @@ body {
     background-color: #f9f9f9;
 }
 
+.admin-dashboard {
+    margin: 20px;
+}
+
+.admin-db-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.admin-dashboard-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    align-items: start;
+}
+
+.dashboard-left {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-right {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.section-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.admin-db-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.admin-db-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .admin-db-button:hover {
+        background-color: #0056b3;
+    }
+
+.dashboard-left {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
 .admin-db-title {
     font-size: 2.5em;
-    color: #007bff;
+    color: #ffd700;
 }
 
 .admin-db-subtitle {
@@ -350,3 +440,372 @@ body {
     gap: 15px;
 }
 
+/* #nowe */
+.users-grid, .products-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.user-card, .product-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    background: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.orders-container {
+    overflow-x: auto;
+}
+
+.orders-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .orders-table th, .orders-table td {
+        padding: 10px;
+        text-align: left;
+        border: 1px solid #ddd;
+    }
+
+.btn-edit, .btn-delete, .btn-submit, .btn-update {
+    margin: 5px 0;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-edit {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn-delete {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.btn-submit, .btn-update {
+    background-color: #28a745;
+    color: #fff;
+}
+
+    .btn-edit:hover, .btn-delete:hover, .btn-submit:hover, .btn-update:hover {
+        opacity: 0.9;
+    }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #1f1f2e;
+    margin: 0 auto 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+}
+
+thead {
+    background: #27273a;
+}
+
+    thead th {
+        color: #bbb;
+        text-transform: uppercase;
+        font-weight: 600;
+        letter-spacing: 0.5px;
+        padding: 12px 16px;
+        border-bottom: 1px solid #333;
+    }
+
+tbody tr {
+    border-bottom: 1px solid #333;
+}
+
+tbody td {
+    padding: 12px 16px;
+    color: #ddd;
+}
+
+
+tbody tr:hover {
+    background-color: #2d2d44;
+    transition: background-color 0.3s ease;
+}
+
+
+.btn {
+    display: inline-block;
+    padding: 8px 14px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: 600;
+    border: none;
+    color: #fff;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+
+.btn-danger {
+    background: linear-gradient(135deg, #ff416c, #ff4b2b);
+}
+
+    .btn-danger:hover {
+        background: linear-gradient(135deg, #ff4b2b, #ff416c);
+        transform: scale(1.05);
+    }
+
+
+.btn-success {
+    background: linear-gradient(135deg, #00b09b, #96c93d);
+    /
+}
+
+    .btn-success:hover {
+        background: linear-gradient(135deg, #96c93d, #00b09b);
+        transform: scale(1.05);
+    }
+
+/* #nowe */
+.styled-popup {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.popup-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #333;
+}
+
+.form-styled {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.form-label {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+.styled-input,
+.styled-textarea,
+.styled-select {
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease;
+}
+
+    .styled-input:focus,
+    .styled-textarea:focus,
+    .styled-select:focus {
+        border-color: #007bff;
+        outline: none;
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    }
+
+.styled-textarea {
+    resize: none;
+    height: 80px;
+}
+
+.styled-button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+}
+
+    .styled-button:hover {
+        background-color: #218838;
+    }
+
+.form-actions {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.chart-container {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+
+
+/* -------------------------------------------
+              userdashboard
+            ------------------------------------------- */
+.cart-summary {
+    position: fixed; /* cart stays at top of page */
+    bottom: 65px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px 15px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    z-index: 999; /* ensure it's on top */
+}
+
+    .cart-summary a {
+        margin-left: 15px;
+        text-decoration: none;
+        color: #f5b642; /* gold-ish color */
+        transition: color 0.3s ease;
+    }
+
+        .cart-summary a:hover {
+            color: #ffd700; /* brighter gold on hover */
+        }
+
+/* -------------------------------------------
+               Main container
+            ------------------------------------------- */
+.dashboard-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 80px 20px 20px;
+    /*
+                    ^ padding-top accounts for the fixed cart at top.
+                    so the content won't hide behind the cart
+                */
+    background-color: #111; /* Dark container background */
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+    color: #fff; /* light text for dark background */
+}
+
+/* -------------------------------------------
+               Categories list
+            ------------------------------------------- */
+.categories {
+    margin-bottom: 20px;
+}
+
+    .categories h3 {
+        margin-bottom: 10px;
+        font-size: 1.5rem;
+        color: #f2f2f2;
+    }
+
+    .categories ul {
+        list-style: none;
+    }
+
+    .categories li {
+        margin-bottom: 8px;
+    }
+
+        .categories li a {
+            text-decoration: none;
+            color: #ffd700;
+            padding: 8px 12px;
+            display: inline-block;
+            border-radius: 5px;
+            position: relative;
+            transition: background-color 0.3s, color 0.3s;
+            font-weight: 500;
+        }
+
+            /* Simple cosmic-like hover (no transform animations) */
+            .categories li a:hover {
+                background-color: #302b63; /* cosmic-ish */
+                color: #fff;
+            }
+
+/* -------------------------------------------
+               Products list
+            ------------------------------------------- */
+.products {
+    margin-bottom: 20px;
+}
+
+    .products h3 {
+        margin-bottom: 15px;
+        font-size: 1.5rem;
+        color: #f2f2f2;
+    }
+
+    .products ul {
+        list-style: none;
+    }
+
+    .products li {
+        background-color: #222; /* dark background for products */
+        margin-bottom: 15px;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 6px 10px rgba(0,0,0,0.2);
+        color: #eee;
+    }
+
+        /* Simple hover effect (no transform animations) */
+        .products li:hover {
+            background-color: #2e2e2e;
+        }
+
+/* Przycisk "Dodaj do koszyka" */
+.add-to-cart {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    /* Kosmiczny gradient */
+    background: linear-gradient(135deg, #8e2de2, #4a00e0);
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 0.95rem;
+}
+
+    .add-to-cart:hover {
+        background: linear-gradient(135deg, #4a00e0, #8e2de2);
+    }
+
+.footer-custom {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 15px;
+    background-color: #4e4c4f; /* Ciemne t³o */
+    color: #ccc; /* Jasny tekst */
+    font-size: 0.9rem;
+    border-top: 1px solid #4a00e0; /* Kosmiczny akcent */
+    margin-top: 30px;
+}
+
+    .footer-custom a {
+        color: #8e2de2;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .footer-custom a:hover {
+            color: #4a00e0;
+            text-decoration: underline;
+        }

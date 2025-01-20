@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 using ProjektZal.Models;
 using System.Security.Claims;
+using Microsoft.EntityFrameworkCore;
 
 namespace ProjektZal.Controllers
 {
@@ -40,13 +41,21 @@ namespace ProjektZal.Controllers
 
             try
             {
-      
+                // Check if the email already exists
+                if (_context.Users.Any(u => u.Email == model.Email))
+                {
+                    Console.WriteLine("Email already exists.");
+                    ModelState.AddModelError("Email", "The email address is already in use.");
+                    return View(model);
+                }
+
+                // Set default role to 'User'
                 model.Role = "User";
 
-      
+                // Hash password before saving
                 model.Password = _passwordHasher.HashPassword(model, model.Password);
 
-     
+                // Add user to the database
                 _context.Users.Add(model);
                 _context.SaveChanges();
 

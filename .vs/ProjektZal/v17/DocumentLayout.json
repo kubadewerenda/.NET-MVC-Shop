@@ -1,118 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\",
+  "WorkspaceRootPath": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\views\\dashboard\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\dashboard\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\views\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\views\\admin\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\admin\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\projektzal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\projektzal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\migrations\\20250116143732_shopschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\migrations\\20250116143732_shopschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\pan marek\\onedrive\\pulpit\\__xd__\\projektzal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\views\\dashboard\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\dashboard\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\views\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\projektzal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\projektzal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\migrations\\20250116143732_shopschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\migrations\\20250116143732_shopschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|c:\\users\\kubad\\onedrive\\pulpit\\programowanie\\smolarek\\right\\projektzal\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B598FF40-885C-4CF1-84B3-AD6E211F00D5}|ProjektZal\\ProjektZal.csproj|solutionrelative:projektzal\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,102 +122,210 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "ProjektZal\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:33:38.136Z",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjektZal\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "ProjektZal\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T21:59:46.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ProjektZal\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\Order.cs",
+              "RelativeToolTip": "ProjektZal\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:57:41.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ProjektZal\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\UserController.cs",
               "RelativeToolTip": "ProjektZal\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T15:57:53.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ProjektZal\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\Product.cs",
-              "RelativeToolTip": "ProjektZal\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "ProjektZal\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\Cart.cs",
+              "RelativeToolTip": "ProjektZal\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T13:29:59.651Z"
+              "WhenOpened": "2025-01-19T16:09:02.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Admin\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "ProjektZal\\Views\\Admin\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Admin\\AdminDashboard.cshtml",
+              "RelativeToolTip": "ProjektZal\\Views\\Admin\\AdminDashboard.cshtml",
+              "ViewState": "AgIAALwBAAAAAAAAAAAcwAMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T22:44:14.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjektZal\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ProjektZal\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T14:20:35.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Dashboard\\UserDashboard.cshtml",
+              "RelativeDocumentMoniker": "ProjektZal\\Views\\Dashboard\\UserDashboard.cshtml",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Dashboard\\UserDashboard.cshtml",
+              "RelativeToolTip": "ProjektZal\\Views\\Dashboard\\UserDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T17:35:08.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjektZal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjektZal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T16:26:08.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjektZal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjektZal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T16:15:07.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProjektZal\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProjektZal\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAQwPEBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-16T16:23:57.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ProjektZal\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\AppDbContext.cs",
               "RelativeToolTip": "ProjektZal\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T17:14:57.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "ProjektZal\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwB0AAAAuAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProjektZal\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T22:52:51.167Z"
+              "WhenOpened": "2025-01-16T15:59:10.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjektZal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T22:58:26.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "AdminDashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Admin\\AdminDashboard.cshtml",
-              "RelativeDocumentMoniker": "ProjektZal\\Views\\Admin\\AdminDashboard.cshtml",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Admin\\AdminDashboard.cshtml",
-              "RelativeToolTip": "ProjektZal\\Views\\Admin\\AdminDashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T22:44:14.482Z"
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ProjektZal\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:33:38.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ProjektZal\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\User.cs",
-              "RelativeToolTip": "ProjektZal\\Models\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ProjektZal\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAwwDwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T14:29:35.947Z"
+              "WhenOpened": "2025-01-16T22:52:51.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Program.cs",
               "RelativeDocumentMoniker": "ProjektZal\\Program.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Program.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Program.cs",
               "RelativeToolTip": "ProjektZal\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -225,100 +333,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjektZal\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "ProjektZal\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAAAK4AAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T14:20:35.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "ProjektZal\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\Order.cs",
-              "RelativeToolTip": "ProjektZal\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABwAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProjektZal\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\User.cs",
+              "RelativeToolTip": "ProjektZal\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T09:57:41.875Z"
+              "WhenOpened": "2025-01-16T14:29:35.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\CartController.cs",
-              "RelativeToolTip": "ProjektZal\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProjektZal\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\Product.cs",
+              "RelativeToolTip": "ProjektZal\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T15:59:29.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "ProjektZal\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T20:48:27.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProjektZal\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wBEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T15:59:10.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserDashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Dashboard\\UserDashboard.cshtml",
-              "RelativeDocumentMoniker": "ProjektZal\\Views\\Dashboard\\UserDashboard.cshtml",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Dashboard\\UserDashboard.cshtml",
-              "RelativeToolTip": "ProjektZal\\Views\\Dashboard\\UserDashboard.cshtml",
-              "ViewState": "AgIAANIAAAAAAAAAAAAiwOcAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T17:35:08.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "ProjektZal\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\Cart.cs",
-              "RelativeToolTip": "ProjektZal\\Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T16:09:02.302Z"
+              "WhenOpened": "2025-01-17T13:29:59.651Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ProjektZal\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:59:29.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ProjektZal\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:48:27.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "ProjektZal\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\OrderItem.cs",
               "RelativeToolTip": "ProjektZal\\Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -326,24 +393,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProjektZal\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProjektZal\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T22:58:26.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\Category.cs",
               "RelativeDocumentMoniker": "ProjektZal\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Models\\Category.cs",
               "RelativeToolTip": "ProjektZal\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,35 +405,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "ProjektZal\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "ProjektZal\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABsBAAAAAAAAAAAkwEQBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-16T16:23:57.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UsersList.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Admin\\UsersList.cshtml",
-              "RelativeDocumentMoniker": "ProjektZal\\Views\\Admin\\UsersList.cshtml",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Admin\\UsersList.cshtml",
-              "RelativeToolTip": "ProjektZal\\Views\\Admin\\UsersList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T01:12:49.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\appsettings.json",
               "RelativeDocumentMoniker": "ProjektZal\\appsettings.json",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\appsettings.json",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\appsettings.json",
               "RelativeToolTip": "ProjektZal\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -387,11 +417,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ProjektZal.csproj",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\ProjektZal.csproj",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\ProjektZal.csproj",
               "RelativeDocumentMoniker": "ProjektZal\\ProjektZal.csproj",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\ProjektZal.csproj",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\ProjektZal.csproj",
               "RelativeToolTip": "ProjektZal\\ProjektZal.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -400,22 +430,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjektZal\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProjektZal\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T16:15:07.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ProjektZal\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "ProjektZal\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAKcAAAAAAAAAAAAYwMgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -423,11 +441,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "20250116143732_ShopSchema.cs",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Migrations\\20250116143732_ShopSchema.cs",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Migrations\\20250116143732_ShopSchema.cs",
               "RelativeDocumentMoniker": "ProjektZal\\Migrations\\20250116143732_ShopSchema.cs",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Migrations\\20250116143732_ShopSchema.cs",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Migrations\\20250116143732_ShopSchema.cs",
               "RelativeToolTip": "ProjektZal\\Migrations\\20250116143732_ShopSchema.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAAwJsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -435,11 +453,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\User\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "ProjektZal\\Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\User\\Login.cshtml",
               "RelativeToolTip": "ProjektZal\\Views\\User\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -447,27 +465,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\User\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\User\\Register.cshtml",
               "RelativeDocumentMoniker": "ProjektZal\\Views\\User\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kubad\\OneDrive\\Pulpit\\Programowanie\\smolarek\\right\\ProjektZal\\Views\\User\\Register.cshtml",
               "RelativeToolTip": "ProjektZal\\Views\\User\\Register.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAQwBcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-16T16:31:13.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProjektZal\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Pan Marek\\OneDrive\\Pulpit\\__XD__\\ProjektZal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProjektZal\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T16:26:08.172Z"
             }
           ]
         }
