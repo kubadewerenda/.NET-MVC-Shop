@@ -23,12 +23,12 @@
         </div>
 
         <div class="admin-dashboard-grid">
-            <!-- Sekcja lewa: Wykres -->
+        
             <div class="chart-container">
                 <canvas id="ordersChart"></canvas>
             </div>
 
-            <!-- Sekcja prawa: Przyciski -->
+        
             <div class="dashboard-right">
                 <h3 class="section-title">Wybierz czynność</h3>
                 <div class="admin-db-buttons">
@@ -41,7 +41,7 @@
         </div>
     </div>
 
-    <!-- Pop-up użytkowników -->
+
     <div class="admin-db-popup" id="usersPopup">
         <div class="admin-db-popup-content">
             <span class="admin-db-close" onclick="closePopup('usersPopup')">&times;</span>
@@ -66,7 +66,6 @@
         </div>
     </div>
 
-    <!-- Pop-up produktów -->
     <div class="admin-db-popup" id="productsPopup">
         <div class="admin-db-popup-content">
             <span class="admin-db-close" onclick="closePopup('productsPopup')">&times;</span>
@@ -98,7 +97,7 @@
     </div>
 
 
-    <!-- Pop-up zamówień -->
+ 
     <div class="admin-db-popup" id="ordersPopup">
         <div class="admin-db-popup-content admin-db-popup-large">
             <span class="admin-db-close" onclick="closePopup('ordersPopup')">&times;</span>
@@ -195,7 +194,7 @@
 
 
 
-    <!-- Popup do edycji produktu -->
+
     <div class="admin-db-popup" id="editProductPopup">
         <div class="admin-db-popup-content admin-db-popup-medium styled-popup">
             <span class="admin-db-close" onclick="closePopup('editProductPopup')">&times;</span>
@@ -249,34 +248,32 @@
                 }
                 const data = await response.json();
 
-                // Sprawdzenie, czy dane istnieją i są poprawne
+          
                 if (!Array.isArray(data) || data.length === 0) {
                     console.error("Brak danych do wyświetlenia na wykresie");
                     return;
                 }
 
-                // Mapowanie danych na etykiety i wartości
                 const labels = [];
                 const values = [];
                 const daysBack = 7;
                 const currentDate = new Date();
 
-                // Tworzenie etykiet z ostatnich 14 dni
+                
                 for (let i = daysBack; i >= 0; i--) {
                     const date = new Date();
                     date.setDate(currentDate.getDate() - i);
                     const formattedDate = date.toISOString().split('T')[0];
                     labels.push(formattedDate);
 
-                    // Pobierz liczbę zamówień dla tego dnia lub 0, jeśli brak
                     const orderForDay = data.find(order => order.orderDate === formattedDate);
                     values.push(orderForDay ? orderForDay.orderCount : 0);
                 }
 
-                // Pobierz element canvas
+    
                 const ctx = document.getElementById('ordersChart').getContext('2d');
 
-                // Utwórz wykres
+     
                 new Chart(ctx, {
                     type: 'bar',
                     data: {
@@ -306,9 +303,9 @@
                         scales: {
                             y: {
                                 beginAtZero: true,
-                                stepSize: 1, // Krok osi Y
+                                stepSize: 1,
                                 ticks: {
-                                    stepSize: 1 // Dodatkowe wymuszenie kroku osi Y
+                                    stepSize: 1 
                                 },
                                 title: {
                                     display: true,
@@ -329,7 +326,6 @@
             }
         }
 
-        // Wywołanie funkcji po załadowaniu strony
         document.addEventListener('DOMContentLoaded', renderChart);
 
 
@@ -342,7 +338,7 @@
             document.getElementById('searchUsersButton').addEventListener('click', function () {
             const searchQuery = document.getElementById('searchUsersInput').value;
 
-            // Wysyłanie żądania AJAX
+  
             fetch(`/Admin/SearchUsers?searchQuery=${encodeURIComponent(searchQuery)}`)
                 .then(response => response.json())
                 .then(users => {
@@ -376,12 +372,12 @@
                      document.getElementById('searchProductsButton').addEventListener('click', function () {
             const searchQuery = document.getElementById('searchProductsInput').value;
 
-            // Wysyłanie żądania AJAX
+ 
             fetch(`/Admin/SearchProducts?searchQuery=${encodeURIComponent(searchQuery)}`)
                 .then(response => response.json())
                 .then(products => {
                     const productsList = document.getElementById('productsList');
-                    productsList.innerHTML = ''; // Wyczyść listę produktów
+                    productsList.innerHTML = ''; 
 
                     if (products.length === 0) {
                         productsList.innerHTML = `
@@ -418,12 +414,12 @@
                     document.getElementById('searchOrdersButton').addEventListener('click', function () {
             const searchQuery = document.getElementById('searchOrdersInput').value;
 
-            // Wysyłanie żądania AJAX
+     
             fetch(`/Admin/SearchOrders?searchQuery=${encodeURIComponent(searchQuery)}`)
                 .then(response => response.json())
                 .then(orders => {
                     const ordersList = document.querySelector('.orders-table tbody');
-                    ordersList.innerHTML = ''; // Wyczyść tabelę zamówień
+                    ordersList.innerHTML = ''; 
 
                     if (orders.length === 0) {
                         ordersList.innerHTML = `

@@ -20,13 +20,13 @@ namespace ProjektZal.Controllers
             _passwordHasher = new PasswordHasher<User>();
         }
 
-        // GET: User/Register
+
         public IActionResult Register()
         {
             return View();
         }
 
-        // POST: User/Register
+
         [HttpPost]
         public IActionResult Register(User model)
         {
@@ -41,7 +41,7 @@ namespace ProjektZal.Controllers
 
             try
             {
-                // Check if the email already exists
+   
                 if (_context.Users.Any(u => u.Email == model.Email))
                 {
                     Console.WriteLine("Email already exists.");
@@ -49,13 +49,13 @@ namespace ProjektZal.Controllers
                     return View(model);
                 }
 
-                // Set default role to 'User'
+       
                 model.Role = "User";
 
-                // Hash password before saving
+         
                 model.Password = _passwordHasher.HashPassword(model, model.Password);
 
-                // Add user to the database
+  
                 _context.Users.Add(model);
                 _context.SaveChanges();
 
@@ -70,13 +70,13 @@ namespace ProjektZal.Controllers
             }
         }
 
-        // GET: User/Login
+
         public IActionResult Login()
         {
             return View();
         }
        
-        // POST: User/Login
+
         [HttpPost]
         public async Task<IActionResult> Login(User model)
         {
@@ -112,7 +112,7 @@ namespace ProjektZal.Controllers
         }
 
 
-        // GET: User/Logout
+
         public async Task<IActionResult> Logout()
         {
             await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);

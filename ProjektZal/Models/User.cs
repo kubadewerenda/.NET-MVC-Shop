@@ -20,9 +20,9 @@ namespace ProjektZal.Models
         public string Password { get; set; }
 
         [Required(ErrorMessage = "Rola jest wymagana.")]
-        public string Role { get; set; } = "User"; // Domyślna rola to "User"
+        public string Role { get; set; } = "User"; 
 
-        public ICollection<Cart> Carts { get; set; } = new List<Cart>(); // Inicjalizacja pustą kolekcją
-        public ICollection<Order> Orders { get; set; } = new List<Order>(); // Inicjalizacja pustą kolekcją
+        public ICollection<Cart> Carts { get; set; } = new List<Cart>(); 
+        public ICollection<Order> Orders { get; set; } = new List<Order>();
     }
 }

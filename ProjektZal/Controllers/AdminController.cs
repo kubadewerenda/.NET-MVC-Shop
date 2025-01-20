@@ -22,10 +22,10 @@ namespace ProjektZal.Controllers
             return RedirectToAction("AdminDashboard");
         }
 
-        // Panel admina
+   
         public IActionResult AdminDashboard(string searchQuery)
         {
-            // Lista użytkowników
+         
             var users = _context.Users
                 .Where(u => u.Role == "User");
 
@@ -34,14 +34,14 @@ namespace ProjektZal.Controllers
                 users = users.Where(u => u.Name.Contains(searchQuery) || u.Email.Contains(searchQuery));
             }
 
-            // Produkty
+         
             var products = _context.Products.ToList();
 
-            // Złożone zamówienia
+       
             var orders = _context.Orders
-                .Include(o => o.User) // Pobierz użytkownika
-                .Include(o => o.OrderItems) // Pobierz pozycje zamówienia
-                .ThenInclude(oi => oi.Product) // Pobierz produkty w zamówieniach
+                .Include(o => o.User) 
+                .Include(o => o.OrderItems) 
+                .ThenInclude(oi => oi.Product) 
                 .ToList();
 
             var categories = _context.Categories.ToList();
@@ -77,7 +77,7 @@ namespace ProjektZal.Controllers
             return Json(users);
         }
 
-        // Usuwanie użytkownika
+
         [HttpPost]
         public IActionResult DeleteUser(int id)
         {
@@ -104,8 +104,8 @@ namespace ProjektZal.Controllers
             var order = _context.Orders.FirstOrDefault(o => o.Id == orderId);
             if (order != null)
             {
-                order.Status = newStatus; // Zmień status zamówienia
-                _context.SaveChanges(); // Zapisz zmiany w bazie danych
+                order.Status = newStatus; 
+                _context.SaveChanges(); 
                 TempData["SuccessMessage"] = "Status zamówienia został zaktualizowany.";
             }
             else
@@ -113,7 +113,7 @@ namespace ProjektZal.Controllers
                 TempData["ErrorMessage"] = "Nie zaktualizowano zamówienia.";
             }
 
-            return RedirectToAction("AdminDashboard"); // Odśwież panel administratora
+            return RedirectToAction("AdminDashboard"); 
         }
 
         [HttpPost]
@@ -132,7 +132,7 @@ namespace ProjektZal.Controllers
             {
                 Console.WriteLine("ModelState is valid.");
 
-                // Pobierz kategorię na podstawie CategoryId
+  
                 var category = _context.Categories.FirstOrDefault(c => c.Id == product.CategoryId);
                 if (category == null)
                 {
@@ -141,10 +141,10 @@ namespace ProjektZal.Controllers
                     return Json(new { success = false, errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage) });
                 }
 
-                // Przypisz kategorię do produktu
+      
                 product.Category = category;
 
-                // Dodaj produkt do bazy danych
+     
                 _context.Products.Add(product);
                 _context.SaveChanges();
                 TempData["SuccessMessage"] = "Produkt został dodany.";
@@ -235,7 +235,6 @@ namespace ProjektZal.Controllers
                     return RedirectToAction("AdminDashboard");
                 }
 
-                // Aktualizacja danych produktu
                 existingProduct.Name = product.Name;
                 existingProduct.Price = product.Price;
                 existingProduct.Description = product.Description;
@@ -276,21 +275,21 @@ namespace ProjektZal.Controllers
             {
                 var startDate = DateTime.Now.AddDays(-7);
 
-                // Pobierz tylko daty zamówień
+         
                 var orders = _context.Orders
                     .Where(o => o.OrderDate >= startDate)
-                    .Select(o => o.OrderDate.Date) // Tylko data (bez czasu)
-                    .ToList() // Pobierz dane do pamięci
-                    .GroupBy(date => date) // Grupowanie po dacie
+                    .Select(o => o.OrderDate.Date) 
+                    .ToList() 
+                    .GroupBy(date => date) 
                     .Select(g => new
                     {
-                        OrderDate = g.Key.ToString("yyyy-MM-dd"), // Przekształcenie daty na string
-                        OrderCount = g.Count() // Liczba zamówień dla każdej daty
+                        OrderDate = g.Key.ToString("yyyy-MM-dd"), 
+                        OrderCount = g.Count() 
                     })
-                    .OrderBy(e => e.OrderDate) // Sortowanie po dacie
+                    .OrderBy(e => e.OrderDate) 
                     .ToList();
 
-                return Json(orders); // Zwrócenie danych w formacie JSON
+                return Json(orders); 
             }
             catch (Exception ex)
             {
@@ -306,7 +305,7 @@ namespace ProjektZal.Controllers
 
     }
 
-    // Model widoku AdminDashboard
+
     public class AdminDashboardViewModel
     {
         public List<User> Users { get; set; }

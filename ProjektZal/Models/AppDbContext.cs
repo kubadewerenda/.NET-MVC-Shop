@@ -11,19 +11,19 @@ namespace ProjektZal.Models
         public DbSet<Cart> Carts { get; set; }
         public DbSet<Order> Orders { get; set; }
 
-        public DbSet<OrderItem> OrderItems { get; set; } // Nowa tabela OrderItem
+        public DbSet<OrderItem> OrderItems { get; set; } 
         public DbSet<Category> Categories { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
-            // Relacja między Product a Category
+       
             modelBuilder.Entity<Product>()
                 .HasOne(p => p.Category)
                 .WithMany(c => c.Products)
                 .HasForeignKey(p => p.CategoryId)
-                .IsRequired(); // Wymagane powiązanie z kategorią
+                .IsRequired(); 
         }
     }
 }

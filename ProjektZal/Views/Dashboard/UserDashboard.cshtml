@@ -3,7 +3,7 @@
 
 
 <div class="dashboard-container">
-    <!-- Lista kategorii -->
+
     <div class="categories">
         <h3>Kategorie</h3>
         <ul>
@@ -22,7 +22,7 @@
         </ul>
     </div>
 
-    <!-- Lista produktów -->
+
     <div class="products">
         <h3>Produkty</h3>
         @if (Model.Products != null && Model.Products.Any())
@@ -46,22 +46,22 @@
     </div>
 </div>
 
-<!-- Koszyk (fixed at top) -->
+
 <div class="cart-summary">
     <p><span id="cart-count"> 0 </span> produktów</p>
     <a href="/Cart/Index">Pokaż koszyk</a>
 </div>
 
 <script>
-    // Funkcja do aktualizacji licznika koszyka
+
     function updateCartCount(newCount) {
         const cartCount = document.getElementById('cart-count');
         if (cartCount) {
-            cartCount.textContent = newCount; // Aktualizacja tekstu w liczniku
+            cartCount.textContent = newCount; 
         }
     }
 
-    // Obsługa przycisków "Dodaj do koszyka"
+
     document.querySelectorAll('.add-to-cart').forEach(button => {
         button.addEventListener('click', async (e) => {
             const productId = e.target.getAttribute('data-product-id');
