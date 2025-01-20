@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ProjektZal.Models.User>
+
+<h1>Administrator</h1>
+
+<h3>Lista użytkowników</h3>
+
+<!-- Przyciski i lista użytkowników -->
+<div>
+    <button id="toggleButton" class="btn" style="cursor: pointer; padding: 10px; background-color: #007bff; color: white; border: none;">
+        Rozwiń listę użytkowników
+    </button>
+
+    <!-- Lista użytkowników -->
+    <ul id="userList" style="display: none; list-style-type: none; padding: 0; margin-top: 10px;">
+        @foreach (var user in Model)
+        {
+            <li style="margin-bottom: 10px;">
+                <span><strong>@user.Name</strong> - @user.Email</span>
+                <form asp-action="DeleteUser" asp-controller="Admin" method="post" style="display:inline;">
+                    <input type="hidden" name="id" value="@user.Id" />
+                    <button type="submit" style="margin-left: 10px; padding: 5px 10px; background-color: #dc3545; color: white; border: none; cursor: pointer;">
+                        Usuń
+                    </button>
+                </form>
+            </li>
+        }
+    </ul>
+</div>
+
+<!-- Skrypt JavaScript -->
+@section Scripts {
+    <script>
+        document.getElementById('toggleButton').addEventListener('click', function () {
+            const userList = document.getElementById('userList');
+            if (userList.style.display === 'none') {
+                userList.style.display = 'block';
+            } else {
+                userList.style.display = 'none';
+            }
+        });
+    </script>
+}

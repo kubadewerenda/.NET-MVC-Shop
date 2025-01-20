@@ -1,0 +1,824 @@
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\appsettings.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ProjektZal.staticwebassets.runtime.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ProjektZal.staticwebassets.endpoints.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ProjektZal.exe
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ProjektZal.deps.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ProjektZal.runtimeconfig.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ProjektZal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ProjektZal.pdb
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.AssemblyInfoInputs.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.AssemblyInfo.cs
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.CoreCompileInputs.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.RazorAssemblyInfo.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.RazorAssemblyInfo.cs
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\scopedcss\bundle\ProjektZal.styles.css
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\scopedcss\projectbundle\ProjektZal.bundle.scp.css
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.ProjektZal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.ProjektZal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjektZal.props
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjektZal.props
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjektZal.props
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\refint\ProjektZal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.pdb
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.genruntimeconfig.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ref\ProjektZal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.sourcelink.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.AssemblyReference.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.Up2Date
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\ProjektZal\ProjektZal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\appsettings.Development.json
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\appsettings.json
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ProjektZal.staticwebassets.runtime.json
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ProjektZal.staticwebassets.endpoints.json
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ProjektZal.exe
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ProjektZal.deps.json
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ProjektZal.runtimeconfig.json
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ProjektZal.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ProjektZal.pdb
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Humanizer.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\System.Text.Json.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Program Files(x86)\SQL\ProjektZal\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.AssemblyReference.cache
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.AssemblyInfoInputs.cache
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.AssemblyInfo.cs
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.CoreCompileInputs.cache
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.MvcApplicationPartsAssemblyInfo.cache
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.RazorAssemblyInfo.cache
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.RazorAssemblyInfo.cs
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.sourcelink.json
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\scopedcss\bundle\ProjektZal.styles.css
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\scopedcss\projectbundle\ProjektZal.bundle.scp.css
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.ProjektZal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.ProjektZal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjektZal.props
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjektZal.props
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjektZal.props
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.Up2Date
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.dll
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\refint\ProjektZal.dll
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.pdb
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ProjektZal.genruntimeconfig.cache
+C:\Program Files(x86)\SQL\ProjektZal\obj\Debug\net8.0\ref\ProjektZal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\appsettings.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ProjektZal.staticwebassets.runtime.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ProjektZal.staticwebassets.endpoints.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ProjektZal.exe
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ProjektZal.deps.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ProjektZal.runtimeconfig.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ProjektZal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ProjektZal.pdb
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.AssemblyReference.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.AssemblyInfoInputs.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.AssemblyInfo.cs
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.CoreCompileInputs.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.RazorAssemblyInfo.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.RazorAssemblyInfo.cs
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.sourcelink.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\scopedcss\bundle\ProjektZal.styles.css
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\scopedcss\projectbundle\ProjektZal.bundle.scp.css
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.ProjektZal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.ProjektZal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjektZal.props
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjektZal.props
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjektZal.props
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.Up2Date
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\refint\ProjektZal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.pdb
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ProjektZal.genruntimeconfig.cache
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\ref\ProjektZal.dll
+C:\Users\kubad\OneDrive\Pulpit\Programowanie\smolarek\kopia\ProjektZal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\appsettings.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ProjektZal.staticwebassets.runtime.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ProjektZal.staticwebassets.endpoints.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ProjektZal.exe
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ProjektZal.deps.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ProjektZal.runtimeconfig.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ProjektZal.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ProjektZal.pdb
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.AssemblyReference.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.AssemblyInfoInputs.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.AssemblyInfo.cs
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.CoreCompileInputs.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.RazorAssemblyInfo.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.RazorAssemblyInfo.cs
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.sourcelink.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\scopedcss\bundle\ProjektZal.styles.css
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\scopedcss\projectbundle\ProjektZal.bundle.scp.css
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.ProjektZal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.ProjektZal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjektZal.props
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjektZal.props
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjektZal.props
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.Up2Date
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\refint\ProjektZal.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.pdb
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ProjektZal.genruntimeconfig.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\NOWY FOLDER\ProjektZal\obj\Debug\net8.0\ref\ProjektZal.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\appsettings.json
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ProjektZal.staticwebassets.runtime.json
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ProjektZal.staticwebassets.endpoints.json
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ProjektZal.exe
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ProjektZal.deps.json
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ProjektZal.runtimeconfig.json
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ProjektZal.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ProjektZal.pdb
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.AssemblyReference.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.AssemblyInfoInputs.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.AssemblyInfo.cs
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.CoreCompileInputs.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.RazorAssemblyInfo.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.RazorAssemblyInfo.cs
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\scopedcss\bundle\ProjektZal.styles.css
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\scopedcss\projectbundle\ProjektZal.bundle.scp.css
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.ProjektZal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.ProjektZal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjektZal.props
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjektZal.props
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjektZal.props
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.csproj.Up2Date
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\refint\ProjektZal.dll
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.pdb
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ProjektZal.genruntimeconfig.cache
+C:\Users\Pan Marek\OneDrive\Pulpit\__XD__\ProjektZal\obj\Debug\net8.0\ref\ProjektZal.dll

@@ -1,0 +1,247 @@
+﻿@model ProjektZal.Controllers.DashboardViewModel
+
+<style>
+    /* -------------------------------------------
+               Reset and basic styles
+            ------------------------------------------- */
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* Dark cosmic background gradient */
+        background: radial-gradient(circle at top, #070b34, #020024 70%, #000 100%);
+        color: #ccc;
+        min-height: 100vh;
+    }
+
+    /* -------------------------------------------
+               Cart summary - pinned at top-right
+            ------------------------------------------- */
+    .cart-summary {
+        position: fixed; /* cart stays at top of page */
+        top: 60px;
+        right: 20px;
+        display: flex;
+        align-items: center;
+        font-size: 1.1rem;
+        background-color: rgba(0, 0, 0, 0.6);
+        padding: 10px 15px;
+        border-radius: 6px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        z-index: 999; /* ensure it's on top */
+    }
+
+        .cart-summary a {
+            margin-left: 15px;
+            text-decoration: none;
+            color: #f5b642; /* gold-ish color */
+            transition: color 0.3s ease;
+        }
+
+            .cart-summary a:hover {
+                color: #ffd700; /* brighter gold on hover */
+            }
+
+    /* -------------------------------------------
+               Main container
+            ------------------------------------------- */
+    .dashboard-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 80px 20px 20px;
+        /*
+                    ^ padding-top accounts for the fixed cart at top.
+                    so the content won't hide behind the cart
+                */
+        background-color: #111; /* Dark container background */
+        border-radius: 10px;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+        color: #fff; /* light text for dark background */
+    }
+
+    /* -------------------------------------------
+               Categories list
+            ------------------------------------------- */
+    .categories {
+        margin-bottom: 20px;
+    }
+
+        .categories h3 {
+            margin-bottom: 10px;
+            font-size: 1.5rem;
+            color: #f2f2f2;
+        }
+
+        .categories ul {
+            list-style: none;
+        }
+
+        .categories li {
+            margin-bottom: 8px;
+        }
+
+            .categories li a {
+                text-decoration: none;
+                color: #ccc;
+                padding: 8px 12px;
+                display: inline-block;
+                border-radius: 5px;
+                position: relative;
+                transition: background-color 0.3s, color 0.3s;
+                font-weight: 500;
+            }
+
+                /* Simple cosmic-like hover (no transform animations) */
+                .categories li a:hover {
+                    background-color: #302b63; /* cosmic-ish */
+                    color: #fff;
+                }
+
+    /* -------------------------------------------
+               Products list
+            ------------------------------------------- */
+    .products {
+        margin-bottom: 20px;
+    }
+
+        .products h3 {
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+            color: #f2f2f2;
+        }
+
+        .products ul {
+            list-style: none;
+        }
+
+        .products li {
+            background-color: #222; /* dark background for products */
+            margin-bottom: 15px;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 6px 10px rgba(0,0,0,0.2);
+            color: #eee;
+        }
+
+            /* Simple hover effect (no transform animations) */
+            .products li:hover {
+                background-color: #2e2e2e;
+            }
+
+    /* Przycisk "Dodaj do koszyka" */
+    .add-to-cart {
+        display: inline-block;
+        margin-top: 10px;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        /* Kosmiczny gradient */
+        background: linear-gradient(135deg, #8e2de2, #4a00e0);
+        color: #fff;
+        font-weight: bold;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        font-size: 0.95rem;
+    }
+
+        .add-to-cart:hover {
+            background: linear-gradient(135deg, #4a00e0, #8e2de2);
+        }
+
+    h3 {
+        color: black !important;
+    }
+</style>
+
+<div class="dashboard-container">
+    <!-- Lista kategorii -->
+    <div class="categories">
+        <h3>Kategorie</h3>
+        <ul>
+            <li><a href="/Dashboard/UserDashboard">Wszystko</a></li>
+            @if (Model.Categories != null && Model.Categories.Any())
+            {
+                foreach (var category in Model.Categories)
+                {
+                    <li><a href="/Dashboard/UserDashboard?categoryId=@category.Id">@category.Name</a></li>
+                }
+            }
+            else
+            {
+                <li>Brak kategorii do wyświetlenia.</li>
+            }
+        </ul>
+    </div>
+
+    <!-- Lista produktów -->
+    <div class="products">
+        <h3>Produkty</h3>
+        @if (Model.Products != null && Model.Products.Any())
+        {
+            <ul>
+                @foreach (var product in Model.Products)
+                {
+                    <li>
+                        <strong>@product.Name</strong> - @product.Price zł<br />
+                        @product.Description<br />
+                        Dostępne: @product.Stock szt.
+                        <button class="add-to-cart" data-product-id="@product.Id">Dodaj do koszyka</button>
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p>Brak produktów do wyświetlenia.</p>
+        }
+    </div>
+</div>
+
+<!-- Koszyk (fixed at top) -->
+<div class="cart-summary">
+    Koszyk: <span id="cart-count">0</span> produktów
+    <a href="/Cart/Index">Pokaż koszyk</a>
+</div>
+
+<script>
+    // Funkcja do aktualizacji licznika koszyka
+    function updateCartCount(newCount) {
+        const cartCount = document.getElementById('cart-count');
+        if (cartCount) {
+            cartCount.textContent = newCount; // Aktualizacja tekstu w liczniku
+        }
+    }
+
+    // Obsługa przycisków "Dodaj do koszyka"
+    document.querySelectorAll('.add-to-cart').forEach(button => {
+        button.addEventListener('click', async (e) => {
+            const productId = e.target.getAttribute('data-product-id');
+            console.log('Dodawany produkt ID:', productId);
+            if (!productId) {
+                alert('Błąd: brak ID produktu.');
+                return;
+            }
+            try {
+                const response = await fetch('/Cart/Add', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ productId: parseInt(productId) })
+                });
+
+                const result = await response.json();
+                if (result.success) {
+                    alert('Dodano do koszyka!');
+                    updateCartCount(result.totalItems);
+                } else {
+                    alert(result.message);
+                }
+            } catch (error) {
+                console.error('Błąd:', error);
+            }
+        });
+    });
+</script>

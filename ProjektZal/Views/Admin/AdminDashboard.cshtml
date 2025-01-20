@@ -1,0 +1,299 @@
+﻿@model ProjektZal.Controllers.AdminDashboardViewModel
+@{
+    ViewData["Title"] = "Panel Administratora";
+}
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<main class="admin-db-container">
+    <div class="admin-db-header">
+        <h1 class="admin-db-title">Witaj, Administratorze</h1>
+        <p class="admin-db-subtitle">Wybierz sekcję, którą chcesz zarządzać:</p>
+    </div>
+
+    <!-- Przyciski do sekcji -->
+    <div class="admin-db-buttons">
+        <button class="admin-db-button" id="usersButton">Użytkownicy</button>
+        <button class="admin-db-button" id="productsButton">Sklep</button>
+        <button class="admin-db-button" id="ordersButton">Zamówienia</button>
+        <button class="admin-db-button" id="addProductButton">Dodaj produkt</button>
+    </div>
+
+    <!-- Pop-up użytkowników -->
+    <div class="admin-db-popup" id="usersPopup">
+        <div class="admin-db-popup-content">
+            <span class="admin-db-close" onclick="closePopup('usersPopup')">&times;</span>
+            <h3>Lista użytkowników</h3>
+            <form method="get" asp-action="AdminDashboard" class="admin-db-search">
+                <input type="text" name="searchQuery" placeholder="Wyszukaj użytkownika..." class="admin-db-input" />
+                <button type="submit" class="admin-db-button">Szukaj</button>
+            </form>
+            <ul class="admin-db-user-list">
+                @if (Model.Users != null && Model.Users.Any())
+                {
+                    @foreach (var user in Model.Users)
+                    {
+                        <li class="admin-db-user-item">
+                            <span class="admin-db-user-info">
+                                <strong>@user.Name</strong> - @user.Email
+                            </span>
+                            <form method="get" asp-action="ViewUserDetails" asp-controller="Admin" style="display: inline;">
+                                <input type="hidden" name="id" value="@user.Id" />
+                                <button type="submit" class="admin-db-button">Dane</button>
+                            </form>
+                            <form asp-action="DeleteUser" method="post" class="admin-db-delete-form" style="display: inline;">
+                                <input type="hidden" name="id" value="@user.Id" />
+                                <button type="submit" class="admin-db-delete-button">Usuń</button>
+                            </form>
+                        </li>
+                    }
+                }
+                else
+                {
+                    <li class="admin-db-user-item">Brak użytkowników do wyświetlenia.</li>
+                }
+            </ul>
+        </div>
+    </div>
+
+    <!-- Pop-up danych usera -->
+    @if (ViewBag.UserDetails != null)
+    {
+        var user = (ProjektZal.Models.User)ViewBag.UserDetails;
+
+        <div class="admin-db-popup" id="userDetailsPopup" style="display: block;">
+            <div class="admin-db-popup-content">
+                <span class="admin-db-close" onclick="closePopup('userDetailsPopup')">&times;</span>
+                <h3>Szczegóły użytkownika</h3>
+                <div class="admin-db-user-details">
+                    <p><strong>ID:</strong> @user.Id</p>
+                    <p><strong>Imię i nazwisko:</strong> @user.Name</p>
+                    <p><strong>Email:</strong> @user.Email</p>
+                    <p><strong>Rola:</strong> @user.Role</p>
+                </div>
+            </div>
+        </div>
+    }
+
+    <!-- Pop-up produktów -->
+    <div class="admin-db-popup" id="productsPopup">
+        <div class="admin-db-popup-content">
+            <span class="admin-db-close" onclick="closePopup('productsPopup')">&times;</span>
+            <h3>Produkty</h3>
+            <form method="get" asp-action="AdminDashboard" class="admin-db-search">
+                <input type="text" name="searchQuery" placeholder="Wyszukaj produkt..." class="admin-db-input" />
+                <button type="submit" class="admin-db-button">Szukaj</button>
+            </form>
+            <div class="admin-db-products-container">
+                <ul class="admin-db-product-list">
+                    @foreach (var product in Model.Products)
+                    {
+                        <li class="admin-db-product-item">
+                            <span class="admin-db-product-name"><strong>@product.Name</strong></span> - @product.Price zł<br />
+                            <span class="admin-db-product-description">@product.Description</span><br />
+                            <span class="admin-db-product-stock">Dostępne: @product.Stock szt.</span>
+                            <button class="admin-db-button" onclick="openEditPopup(@product.Id)">Edytuj</button>
+                            <form method="post" asp-action="DeleteProduct" asp-controller="Admin">
+                                <input type="hidden" name="id" value="@product.Id" />
+                                <button type="submit" class="admin-db-button admin-db-delete-button"
+                                        onclick="return confirm('Czy na pewno chcesz usunąć ten produkt?')">
+                                    Usuń
+                                </button>
+                            </form>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pop-up zamówień -->
+    <div class="admin-db-popup" id="ordersPopup">
+        <div class="admin-db-popup-content admin-db-popup-large">
+            <span class="admin-db-close" onclick="closePopup('ordersPopup')">&times;</span>
+            <h3>Zamówienia</h3>
+            <form method="get" asp-action="AdminDashboard" class="admin-db-search">
+                <input type="text" name="searchQuery" placeholder="Wyszukaj zamówienie..." class="admin-db-input" />
+                <button type="submit" class="admin-db-button">Szukaj</button>
+            </form>
+            <div class="admin-db-orders-scroll">
+                <table class="admin-db-orders-table">
+                    <thead>
+                        <tr>
+                            <th>ID Zamówienia</th>
+                            <th>Użytkownik</th>
+                            <th>Produkty</th>
+                            <th>Data</th>
+                            <th>Status</th>
+                            <th>Akcje</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in Model.Orders)
+                        {
+                            <tr>
+                                <td>@order.Id</td>
+                                <td>@order.User.Name (@order.User.Email)</td>
+                                <td>
+                                    <ul class="admin-db-order-items">
+                                        @foreach (var item in order.OrderItems)
+                                        {
+                                            <li>@item.Product.Name - @item.Quantity szt.</li>
+                                        }
+                                    </ul>
+                                </td>
+                                <td>@order.OrderDate.ToShortDateString()</td>
+                                <td>@order.Status</td>
+                                <td>
+                                    <form method="post" asp-action="UpdateOrderStatus" class="admin-db-status-form">
+                                        <input type="hidden" name="orderId" value="@order.Id" />
+                                        <select name="newStatus" class="admin-db-status-select">
+                                            <option value="Pending" selected="@(order.Status == "Pending" ? "selected" : null)">Oczekujące</option>
+                                            <option value="Confirmed" selected="@(order.Status == "Confirmed" ? "selected" : null)">Potwierdzone</option>
+                                            <option value="Shipped" selected="@(order.Status == "Shipped" ? "selected" : null)">Wysłane</option>
+                                            <option value="Cancelled" selected="@(order.Status == "Cancelled" ? "selected" : null)">Anulowane</option>
+                                        </select>
+                                        <button type="submit" class="admin-db-button">Zmień</button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    !-- Pop-up dodawania produktu -->
+    <div class="admin-db-popup" id="addProductPopup" style="display: none;">
+        <div class="admin-db-popup-content admin-db-popup-medium">
+            <span class="admin-db-close" onclick="closePopup('addProductPopup')">&times;</span>
+            <h3>Dodaj produkt</h3>
+            <form method="post" asp-action="AddProduct">
+                <div class="form-group">
+                    <label for="Name">Nazwa produktu:</label>
+                    <input id="Name" name="Name" type="text" class="admin-db-input" required />
+                </div>
+                <div class="form-group">
+                    <label for="Price">Cena:</label>
+                    <input id="Price" name="Price" type="number" step="0.01" class="admin-db-input" required />
+                </div>
+                <div class="form-group">
+                    <label for="Description">Opis:</label>
+                    <textarea id="Description" name="Description" class="admin-db-input"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="Stock">Stan magazynowy:</label>
+                    <input id="Stock" name="Stock" type="number" class="admin-db-input" required />
+                </div>
+                <div class="form-group">
+                    <label for="CategoryId">Kategoria:</label>
+                    <select id="CategoryId" name="CategoryId" class="admin-db-input" required>
+                        <option value="" disabled selected>Wybierz kategorię</option>
+                        @foreach (var category in ViewBag.Categories as List<ProjektZal.Models.Category>)
+                        {
+                            <option value="@category.Id">@category.Name</option>
+                        }
+                    </select>
+                </div>
+                <button type="submit" class="admin-db-button">Dodaj produkt</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Popup do edycji produktu -->
+    <div class="admin-db-popup" id="editProductPopup" style="display: none;">
+        <div class="admin-db-popup-content">
+            <span class="admin-db-close" onclick="closePopup('editProductPopup')">&times;</span>
+            <h3>Edytuj produkt</h3>
+            <form method="post" asp-action="EditProduct" id="editProductForm">
+                <input type="hidden" id="editProductId" name="Id" />
+                <div class="form-group">
+                    <label for="editProductName">Nazwa produktu:</label>
+                    <input id="editProductName" name="Name" type="text" class="admin-db-input" required />
+                </div>
+                <div class="form-group">
+                    <label for="editProductPrice">Cena:</label>
+                    <input id="editProductPrice" name="Price" type="number" step="0.01" class="admin-db-input" required />
+                </div>
+                <div class="form-group">
+                    <label for="editProductDescription">Opis:</label>
+                    <textarea id="editProductDescription" name="Description" class="admin-db-input"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="editProductStock">Stan magazynowy:</label>
+                    <input id="editProductStock" name="Stock" type="number" class="admin-db-input" required />
+                </div>
+                <div class="form-group">
+                    <label for="editProductCategory">Kategoria:</label>
+                    <select id="editProductCategory" name="CategoryId" class="admin-db-input" required>
+                        @foreach (var category in ViewBag.Categories as List<ProjektZal.Models.Category>)
+                        {
+                            <option value="@category.Id">@category.Name</option>
+                        }
+                    </select>
+                </div>
+                <button type="submit" class="admin-db-button">Zapisz zmiany</button>
+            </form>
+        </div>
+    </div>
+
+
+
+</main>
+
+@section Scripts {
+    <script>
+        function openEditPopup(productId) {
+            // Pobierz dane produktu z serwera (przykład dla AJAX)
+            fetch(`/Admin/GetProduct/${productId}`)
+                .then(response => response.json())
+                .then(data => {
+                    // Wypełnij formularz edycji danymi produktu
+                    document.getElementById('editProductId').value = data.id;
+                    document.getElementById('editProductName').value = data.name;
+                    document.getElementById('editProductPrice').value = data.price;
+                    document.getElementById('editProductDescription').value = data.description;
+                    document.getElementById('editProductStock').value = data.stock;
+                    document.getElementById('editProductCategory').value = data.categoryId;
+
+                    // Otwórz popup
+                    document.getElementById('editProductPopup').style.display = 'block';
+                });
+        }
+        function openPopup(popupId) {
+            document.getElementById(popupId).style.display = "block";
+        }
+
+        function closePopup(popupId) {
+            document.getElementById(popupId).style.display = "none";
+        }
+
+        document.getElementById('usersButton').addEventListener('click', function () {
+            openPopup('usersPopup');
+        });
+
+        document.getElementById('productsButton').addEventListener('click', function () {
+            openPopup('productsPopup');
+        });
+
+        document.getElementById('ordersButton').addEventListener('click', function () {
+            openPopup('ordersPopup');
+        });
+
+        // Obsługa formularza dodawania produktu
+        document.getElementById('addProductButton').addEventListener('click', function () {
+            openPopup('addProductPopup');
+        });
+    </script>
+}
